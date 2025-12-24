@@ -2,7 +2,7 @@
 
 Mata Kuliah Dasar Pemrograman, dengan bahasa C++
 
-## Soal 1
+## Quiz Penjumlahan
 ```bash
 ### **STEP 4: Perbaiki Kode dan Tambahkan Komentar** 🔧
 
